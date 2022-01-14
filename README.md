@@ -11,8 +11,7 @@ What I understood from the README.md file, was that the point of this project wa
 
 1.  I generate a token using the commandline
 2.  I'd make use of Laravel's 'Middleware' authentication to gatekeep anyone without a token.
-3.  ik heb een filter systeem gemaakt waardoor je alleen jouw informatie ziet van de api token.
-4.  I'd make a filter which resticts users from viewing any information except from their own API token.
+3.  I'd make a filter which resticts users from viewing any information except from their own API token.
 
 ## Final thoughts
 I don't have much to conclude to other than to, in the future, creating a hierarchy of what's most important to do, then properly manage my time.
